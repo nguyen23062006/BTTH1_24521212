@@ -3,11 +3,11 @@ Source code, dữ liệu và báo cáo bài thực hành 1 môn DS102.
 ## Câu 1 – Thuật toán Newton–Raphson
 Notebook trình bày cách sử dụng thuật toán Newton–Raphson để tìm điểm cực trị của hàm số thông qua gradient và ma trận Hessian.
 Nội dung chính:
-Xây dựng hàm gradient.
-Xây dựng ma trận Hessian.
-Cài đặt thuật toán Newton–Raphson.
-Chọn điểm khởi tạo và điều kiện dừng.
-Hiển thị kết quả tìm được.
+Xây dựng hàm gradient.</br>
+Xây dựng ma trận Hessian.</br>
+Cài đặt thuật toán Newton–Raphson.</br>
+Chọn điểm khởi tạo và điều kiện dừng.</br>
+Hiển thị kết quả tìm được.</br>
 ## Câu 2 – Thu thập dữ liệu
 Notebook thu thập dữ liệu thời tiết lịch sử bằng Open-Meteo Historical Weather API.
 ## 2.1. Các file dữ liệu
