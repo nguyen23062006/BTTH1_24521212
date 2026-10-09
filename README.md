@@ -11,7 +11,7 @@ Hiển thị kết quả tìm được.
 ## Câu 2 – Thu thập dữ liệu
 Notebook thu thập dữ liệu thời tiết lịch sử bằng Open-Meteo Historical Weather API.
 ## 2.1. Các file dữ liệu
-Dữ liệu được lưu ở ba định dạng:
+Dữ liệu được lưu ở ba định dạng: </br>
 [`weather_daily.csv`](./weather_daily.csv) </br>
 [`weather_daily.tsv`](./weather_daily.tsv) </br>
 [`weather_daily.json`](./weather_daily.json) </br>
